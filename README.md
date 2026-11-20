@@ -15,10 +15,10 @@
 - Introduction to generative AI studio
 
 ### 📌 Currently
--Doing my bachelor’s degree in computer science
 - Learning new technologies
 - Building beginner-friendly projects
 - Improving my problem-solving skills
+- Doing my bachelor’s degree in computer science
 
 ---
 
