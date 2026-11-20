@@ -8,6 +8,7 @@
 ### 🛠️ Languages & Tools
 - Python
 - C
+- C++
 - HTML
 - CSS
 - JavaScript
