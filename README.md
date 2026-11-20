@@ -11,7 +11,6 @@
 - HTML
 - CSS
 - JavaScript
-- Git & GitHub
 - Introduction to generative AI studio
 
 ### 📌 Currently
