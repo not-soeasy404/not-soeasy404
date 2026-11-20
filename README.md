@@ -12,6 +12,7 @@
 - CSS
 - JavaScript
 - Git & GitHub
+- Introduction to generative AI studio
 
 ### 📌 Currently
 -Doing my bachelor’s degree in computer science
