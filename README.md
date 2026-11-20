@@ -21,7 +21,3 @@
 - Doing my bachelor’s degree in computer science
 
 ---
-
-*"Consistency is the key to progress."*
-
-⭐ Thanks for visiting my profile!
