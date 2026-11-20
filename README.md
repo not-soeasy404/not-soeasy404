@@ -10,8 +10,8 @@
 - C
 - C++
 - HTML
-- CSS
-- JavaScript
+- CSS(Ongoing)
+- JavaScript(Ongoing)
 - Introduction to generative AI studio
 
 ### 📌 Currently
