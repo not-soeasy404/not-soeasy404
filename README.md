@@ -1,16 +1,26 @@
-## Hi there 👋
+## Hey, I'm Ajay 👋
 
-<!--
-**not-soeasy404/not-soeasy404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Computer Science Engineering Student  
+🌱 Currently learning Python, C, HTML, CSS & JavaScript  
+🚀 Exploring Web Development and AI  
+🎯 Focused on learning, building, and growing every day.
 
-Here are some ideas to get you started:
+### 🛠️ Languages & Tools
+- Python
+- C
+- HTML
+- CSS
+- JavaScript
+- Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📌 Currently
+-Doing my bachelor’s degree in computer science
+- Learning new technologies
+- Building beginner-friendly projects
+- Improving my problem-solving skills
+
+---
+
+*"Consistency is the key to progress."*
+
+⭐ Thanks for visiting my profile!
